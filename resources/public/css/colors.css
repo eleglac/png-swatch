@@ -1,0 +1,26 @@
+#follower {
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
+}
+
+#follow {
+	background-color: white;
+	border: 1px solid #ddd;
+	height: 10vh;
+	width: 20vw;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+}
+
+#form-div {
+	background-color: white;
+	border: 1px solid #bbb;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+}	
+
